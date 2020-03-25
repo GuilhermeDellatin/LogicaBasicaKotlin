@@ -1,4 +1,4 @@
-import java.util.*
+//Exercícios obtidos do URI Online Judge: www.urionlinejudge.com.br
 
 /*
 Fazer um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C.
@@ -9,6 +9,8 @@ c) a área do trapézio que tem A e B por bases e C por altura.
 d) a área do quadrado que tem lado B.
 e) a área do retângulo que tem lados A e B.
  */
+
+import java.util.*
 
 fun main(args: Array<String>){
     Locale.setDefault(Locale.US)

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5650ceec-2ce1-4b6a-9c07-13a1d6bbc019" name="Default Changelist" comment="" />
+    <list default="true" id="5650ceec-2ce1-4b6a-9c07-13a1d6bbc019" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programa.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

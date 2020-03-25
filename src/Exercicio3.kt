@@ -1,3 +1,10 @@
+//Exercícios obtidos do URI Online Judge: www.urionlinejudge.com.br
+
+/*
+Fazer um programa para ler quatro valores inteiros A, B, C e D.
+A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D
+segundo a fórmula: DIFERENCA = (A * B - C * D).
+*/
 import java.util.*
 
 fun dif(A: Int, B: Int, C: Int, D: Int): Int{
@@ -18,4 +25,5 @@ fun main(args: Array<String>){
 
     println("A diferença do produto de A e B para C e D é: ${dif(A, B, C, D)}")
 
+    sc.close()
 }
